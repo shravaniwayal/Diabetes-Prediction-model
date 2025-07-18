@@ -120,7 +120,7 @@ Open the notebook in Jupyter:
 
 ## Project Structure
 ```
-Diabetes-Prediction/
+Diabetes-Prediction-model/
 ├── data/
 │   └── diabetes.csv
 ├── diabetes_logistic.ipynb
